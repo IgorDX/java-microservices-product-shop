@@ -1,0 +1,3 @@
+[submodule "microservices-shop-frontend"]
+	path = microservices-shop-frontend
+	url = https://github.com/IgorDX/java-microservices-shop-frontend
