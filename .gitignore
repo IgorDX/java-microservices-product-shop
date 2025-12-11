@@ -1,0 +1,3 @@
+product-service/data/
+api-gateway/volume-data/
+docker/mysql/data/
